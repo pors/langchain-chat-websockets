@@ -8,4 +8,4 @@ cp dotenv-example .env # add your secrets to the .env file
 python main.py
 ```
 
-Thanks to @hwchase17 for showing the way in [chat-langchain](https://github.com/hwchase17/chat-langchain/tree/master)
+Thanks to [@hwchase17](https://github.com/hwchase17) for showing the way in [chat-langchain](https://github.com/hwchase17/chat-langchain/tree/master)
