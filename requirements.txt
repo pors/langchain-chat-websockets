@@ -1,4 +1,4 @@
-langchain==0.0.153 # 0.0.154 breaks us https://github.com/hwchase17/langchain/pull/3256#issuecomment-1531831107
+langchain==0.0.157 
 openai==0.27.5
 python-dotenv==1.0.0
 fastapi==0.95.1
